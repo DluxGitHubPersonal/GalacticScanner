@@ -1,0 +1,15 @@
+﻿This is a string of stuff1
+This is a string of stuff2
+555-66-5555
+This is a string of stuff3
+This is a string of stuff4
+5555-5555-5555-5555
+5555 5555 5555 5555
+5555	5555	5555	5555
+6666-6666 6666	6666
+777-77-7777
+777	77	7777
+777 77 7777
+This is a string of stuff5
+This is a string of stuff6
+This is a string of stuff7
