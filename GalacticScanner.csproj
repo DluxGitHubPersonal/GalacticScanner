@@ -14,6 +14,9 @@
     <None Update="Scanner.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="TestData\SimpleTestFile.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="TestData\SimpleTestFileUnicode.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
